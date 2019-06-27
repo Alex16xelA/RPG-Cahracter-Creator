@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RPG Character Creator</string>
+    <string name="history_item">History</string>
+    <string name="setting_item">Settings</string>
+    <string name="create_character_item">Create</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+        <string-array name="Race">
+            <item>ELF</item>
+            <item>CZLOWIEK</item>
+            <item>KRASNOLUD</item>
+            <item>NIZIOLEK</item>
+        </string-array>
+
+</resources>
